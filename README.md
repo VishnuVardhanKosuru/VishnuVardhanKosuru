@@ -1,3 +1,5 @@
+![VishnuVardhanKosuru Banner Image](https://github.com/VishnuVardhanKosuru/VishnuVardhanKosuru/blob/034a6eaf15a3bc38a1973cfcb600b1cf458e2edb/vishnu png.png)
+
 
 <h1 align="center">Hi 👨🏻‍🎓, I'm Vishnu Vardhan Kosuru</h1>
 
