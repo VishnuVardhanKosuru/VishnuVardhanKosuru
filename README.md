@@ -6,7 +6,7 @@
 
 <h3 align="center">Amrita School of Engineering ASE 2021-25</h3>
 
-<h3 align="center">You call me as Vishnu.</h3> 
+<h3 align="center">You can call me as Vishnu.</h3> 
 
 - 📖 I’m currently learning **SQL [data management & DBMS],python, C/C++ language, Linux, AutoCad, HTML & CSS.**
 
