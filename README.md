@@ -1,6 +1,5 @@
-![AyyappaSwamy-Sam Banner Image](https://github.com/AyyappaSwamy-Sam/AyyappaSwamy-Sam/blob/034a6eaf15a3bc38a1973cfcb600b1cf458e2edb/ayyappaswamy.png)
 
-<h1 align="center">Hi 👨🏻‍🎓, I'm Thati Ayyappa Swamy</h1>
+<h1 align="center">Hi 👨🏻‍🎓, I'm Vishnu Vardhan Kosuru</h1>
 
 <h3 align="center">Currently doing my engineering UG at Amrita Vishwa Vidyaapeetham</h3>
 
@@ -8,14 +7,14 @@
 
 <h3 align="center">You call me as Sam.</h3> 
 
-- 📖 I’m currently learning **java [data stuctures & algorithms],python [machine learning and deep learning courses], C/C++ language, Arduino C and Matlab.**
+- 📖 I’m currently learning **SQL [data management & DBMS],python, C/C++ language, Linux, AutoCad, HTML & CSS.**
 
-- 💻 I’m currently working on **few java and python projects.**
+- 💻 I’m currently working on **few python projects.**
 
-<!-- - 📝 How to reach me **thatiayyappaswami@gmail.com** -->
+<!-- - 📝 How to reach me **vishnu4916@gmail.com** -->
 
-<!--[![Instagram Badge](https://img.shields.io/badge/-_swami_chowdary-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_swami_chowdary/)](https://www.instagram.com/_swami_chowdary/)
-[![Gmail Badge](https://img.shields.io/badge/-thatiayyappaswami@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thatiayyappaswami@gmail.com)](mailto:thatiayyappaswami@gmail.com)-->
+<!--[![Instagram Badge](https://img.shields.io/badge/-_.vishu.16._-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_.vishu.16._/)](https://www.instagram.com/_.vishu.16._/)
+[![Gmail Badge](https://img.shields.io/badge/-vishnu4916@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishnu4916@gmail.com)](mailto:vishnu4916@gmail.com)-->
 
 <h3 align="center">Languages and Tools I know:</h3>
 <p align="center"> 
@@ -33,23 +32,18 @@
 <div>
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayyappaswamy-sam&" alt="ayyappaswamy-sam" /> <br/><br/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=VishnuVardhanKosuru&" alt="VishnuVardhanKosuru" /> <br/><br/>
   <b><em>Programming activity:</em></b> <br/>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayyappaswamy-sam&show_icons=true&locale=en&layout=compact" alt="ayyappaswamy-sam" /><br/><br/>
-   <img src="https://github-readme-stats.vercel.app/api?username=ayyappaswamy-sam&show_icons=true&locale=en" alt="ayyappaswamy-sam" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VishnuVardhanKosuru&show_icons=true&locale=en&layout=compact" alt="VishnuVardhanKosuru" /><br/><br/>
+   <img src="https://github-readme-stats.vercel.app/api?username=VishnuVardhanKosuru&show_icons=true&locale=en" alt="VishnuVardhanKosuru" />
   </p>
 </div>
 
 
 <h3 align="center">You can cantact me at:</h3>
 <p align="center">
-<a href="https://twitter.com/userdeadgd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="userdeadgd" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayyappa-swamy-thati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayyappa-swamy-thati" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18004398" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18004398" height="30" width="40" /></a>
-<a href="https://kaggle.com/ayyappaswamythati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayyappaswamythati" height="30" width="40" /></a>
-<a href="https://fb.com/swami thati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="swami thati" height="30" width="40" /></a>
-<a href="https://instagram.com/_swami_chowdary" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_swami_chowdary" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/thatiayyappaswa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="thatiayyappaswa1" height="30" width="40" /></a>
+<a href="https://twitter.com/vishnu4916" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishnu4916" height="30" width="40" /></a>
+<a href="https://instagram.com/_.vishu.16._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.vishu.16._" height="30" width="40" /></a>
 </p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=ayyappaswamy-sam&label=Profile%20views&color=0e75b6&style=flat" alt="ayyappaswamy-sam" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=VishnuVardhanKosuru&label=Profile%20views&color=0e75b6&style=flat" alt="VishnuVardhanKosuru" /> </p>
