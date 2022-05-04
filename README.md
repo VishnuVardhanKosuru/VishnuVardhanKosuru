@@ -49,3 +49,4 @@
 </p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=VishnuVardhanKosuru&label=Profile%20views&color=0e75b6&style=flat" alt="VishnuVardhanKosuru" /> </p>
+![vishnu png](https://user-images.githubusercontent.com/94121040/166702533-e808a92d-e9b1-4418-9865-79075cac7c6b.png)
