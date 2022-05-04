@@ -1,5 +1,4 @@
-![VishnuVardhanKosuru Banner Image](https://github.com/VishnuVardhanKosuru/VishnuVardhanKosuru/blob/034a6eaf15a3bc38a1973cfcb600b1cf458e2edb/vishnu png.png)
-
+![vishnu png](https://user-images.githubusercontent.com/94121040/166703053-ffcc1410-399e-40cb-8380-550c47d2174e.png)
 
 <h1 align="center">Hi 👨🏻‍🎓, I'm Vishnu Vardhan Kosuru</h1>
 
@@ -49,4 +48,3 @@
 </p>
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=VishnuVardhanKosuru&label=Profile%20views&color=0e75b6&style=flat" alt="VishnuVardhanKosuru" /> </p>
-![vishnu png](https://user-images.githubusercontent.com/94121040/166702533-e808a92d-e9b1-4418-9865-79075cac7c6b.png)
