@@ -2,12 +2,11 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=VishnuVardhanKosuru&label=Profile%20views&color=0e75b6&style=flat" alt="VishnuVardhanKosuru" /> </p>
 
-🔭 I’m currently working on DataAnalysis<br>
-🌱 I’m currently interested in **Flutter, AppDevelopment**<br>
-👯 I’m looking to collaborate on **DataScience, AppDev & WebDev projects**<br>
+🔭 I’m currently working as an Backend SDE<br>
+🌱 I’m currently interested in **Machine Learning, Development**<br>
+👯 I’m looking to collaborate on **DataScience, Application Development projects**<br>
 💬 Ask me about Technology and Personal Development<br>
 📬 How to reach me :- **vishnu4916@gmail.com**<br>
-⚡ Fun fact :- I’m a 3rd year Btech CSE Student<br>
 
 <!--[![Instagram Badge](https://img.shields.io/badge/-_.vishu.16._-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/_.vishu.16._/)](https://www.instagram.com/_.vishu.16._/)
 [![Gmail Badge](https://img.shields.io/badge/-vishnu4916@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vishnu4916@gmail.com)](mailto:vishnu4916@gmail.com)-->
